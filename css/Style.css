@@ -1,0 +1,16 @@
+.wrapper{
+    background-color: #ddfedd;
+}
+header {background-color: yellow;
+border: 2px solid black;
+padding: 5px;
+text-align: center;}
+
+nav {background-color: black;
+margin: 10px;
+color: whitesmoke;
+font-size: larger;}
+main {background-color: yellow;}
+footer {background-color: black;
+padding: 10px;
+text-align: center;}
